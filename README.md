@@ -1,16 +1,5 @@
 # flutter_shader
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- created creation.spv with [chriscraws/dart-shader: dart expressions that can be exported as spir-v](https://github.com/chriscraws/dart-shader)
+- grab the example code from [CustomPaint](https://api.flutter.dev/flutter/widgets/CustomPaint-class.html) and [CustomPainter](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html)
+- swapped out the gradient shader with a shader created with creation.spv
